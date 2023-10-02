@@ -1,3 +1,4 @@
+// Класс присваивающий электронный талон
 public class Participant implements Comparable<Participant>{
     String name;
     int id;
